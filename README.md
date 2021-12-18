@@ -1,16 +1,12 @@
-### Hi there 👋
+### Hi! I'm SrRhyan! ✌️
+- - -
+![SrRhyan GitHub stats](https://github-readme-stats.vercel.app/api?username=SrRhyan&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SrRhyan&layout=compact&langs_count=7&theme=radical)](https://github.com/SrRhyan/github-readme-stats)
 
-<!--
-**SrRhyan/SrRhyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)]()
+[![java](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)]()
+[![discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](SrRhyan#8901)
+[![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)]()
+[![Follow](https://img.shields.io/github/followers/SrRhyan.svg?style=radical&label=Follow&maxAge=2592000)]()
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- - -
+[![Cobra](https://raw.githubusercontent.com/rafaballerini/rafaballerini/b3f0627a4d59986893b502f6dc9d13ae368bbac7/github-contribution-grid-snake.svg)]()
