@@ -14,11 +14,12 @@
 
 <h3> 📍 &nbsp;Languages </h3>
 
+**|**
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;**|**
 ![mongo](https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=)&nbsp;
 ![SQLite](https://img.shields.io/badge/Sqlite-0D1117?style=for-the-badge&logo=Sqlite&logoColor=blue)&nbsp;
-
+**|**
 <h3> 👨‍🏫 Aprendendo </h3>
 
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
