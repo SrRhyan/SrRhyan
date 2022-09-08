@@ -25,11 +25,12 @@
 
 **|**
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-![Blender](https://img.shields.io/badge/Blender-0D1117?style=for-the-badge&logo=Blender&logoColor=)&nbsp;
 ![Py](https://img.shields.io/badge/python-0D1117?style=for-the-badge&logo=python&logoColor=)&nbsp;
+![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=Java&logoColor=white)&nbsp;
+**|**
+![Blender](https://img.shields.io/badge/Blender-0D1117?style=for-the-badge&logo=Blender&logoColor=)&nbsp;
 ![Unreal Engine](https://img.shields.io/badge/UE4/5-0D1117?style=for-the-badge&logo=unrealengine&logoColor=)&nbsp;
 ![Zbrush](https://img.shields.io/badge/Zbrush-0D1117?style=for-the-badge&linklogo=zbrush&logoColor=white)&nbsp;
-![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=Java&logoColor=white)&nbsp;
 **|**
 
 <h3> 👩‍💻 IDE </h3>
