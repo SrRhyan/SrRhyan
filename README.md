@@ -22,17 +22,21 @@
 **|**
 <h3> 👨‍🏫 Aprendendo </h3>
 
+**|**
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 ![Blender](https://img.shields.io/badge/Blender-0D1117?style=for-the-badge&logo=Blender&logoColor=)&nbsp;
+![Py](https://img.shields.io/badge/python-0D1117?style=for-the-badge&logo=python&logoColor=)&nbsp;
 ![Unreal Engine](https://img.shields.io/badge/UE4/5-0D1117?style=for-the-badge&logo=unrealengine&logoColor=)&nbsp;
 ![Zbrush](https://img.shields.io/badge/Zbrush-0D1117?style=for-the-badge&linklogo=zbrush&logoColor=white)&nbsp;
 ![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=Java&logoColor=white)&nbsp;
+**|**
 
 <h3> 👩‍💻 IDE </h3>
 
+**|**
 ![eclipse](https://img.shields.io/badge/Eclipse-0D1117?style=for-the-badge&logo=eclipse&logoColor=34099e)
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-0D1117?style=for-the-badge&logo=visual-studio&logoColor=086ec2)&nbsp;
-
+**|**
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=SrRhyan&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Matheus Maia Alvarez github stats" /> 
