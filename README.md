@@ -11,8 +11,9 @@
 - 🧑‍🎓 Iniciante na área.
 - 😼 Focado em aprender.
 - 👩🏻‍💻 Aprimorando minhas habilidades em **```Java,JavaScript,Nodejs,Blender,Zbrush,UE4/5```**.
+- 📍 Localização: <img width="2%" height="2%" src="https://images.emojiterra.com/twitter/v14.0/512px/1f1e7-1f1f7.png">
 
-<h3> 📍 &nbsp;Languages </h3>
+<h3> 🌐 &nbsp;Languages </h3>
 
 **|**
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
