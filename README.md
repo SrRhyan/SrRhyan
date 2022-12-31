@@ -8,7 +8,7 @@
 </div>
 <h3> 😸 &nbsp;Sobre mim: </h3>
   
-- 🧑‍🎓 Iniciante na área.
+- 🧑‍🎓 intermediário na área.
 - 😼 Focado em aprender.
 - 👩🏻‍💻 Aprimorando minhas habilidades em **```Java,JavaScript,Nodejs,Blender,Zbrush,UE4/5```**.
 - 📍 Localização: <img width="2%" height="2%" src="https://images.emojiterra.com/twitter/v14.0/512px/1f1e7-1f1f7.png">
