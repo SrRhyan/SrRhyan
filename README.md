@@ -47,7 +47,7 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrRhyan&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
-![Contribution](https://activity-graph.herokuapp.com/graph?username=SrRhyan&theme=gotham&hide_border=true&area=true)
+<!-- ![Contribution](https://activity-graph.herokuapp.com/graph?username=SrRhyan&theme=gotham&hide_border=true&area=true) -->
 
 ![Cobra](https://raw.githubusercontent.com/rafaballerini/rafaballerini/b3f0627a4d59986893b502f6dc9d13ae368bbac7/github-contribution-grid-snake.svg)
 
