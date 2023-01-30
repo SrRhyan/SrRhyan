@@ -51,6 +51,6 @@
 
 ![Cobra](https://raw.githubusercontent.com/rafaballerini/rafaballerini/b3f0627a4d59986893b502f6dc9d13ae368bbac7/github-contribution-grid-snake.svg)
 
-[discord-invite]: https://discord.gg/QggQkFnPAU
+[discord-invite]: https://discord.gg/hightland
 [discord-shield]: https://img.shields.io/discord/995364777876525066?label=Discord&logo=Discord&logoColor=white&style=for-the-badge
 [ ![discord-shield][] ][discord-invite]
