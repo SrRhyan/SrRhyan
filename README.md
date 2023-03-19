@@ -17,6 +17,7 @@
 
 **|**
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
+![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;**|**
 ![mongo](https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=)&nbsp;
 ![SQLite](https://img.shields.io/badge/Sqlite-0D1117?style=for-the-badge&logo=Sqlite&logoColor=blue)&nbsp;
@@ -24,7 +25,6 @@
 <h3> 👨‍🏫 Aprendendo </h3>
 
 **|**
-![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 ![Py](https://img.shields.io/badge/python-0D1117?style=for-the-badge&logo=python&logoColor=)&nbsp;
 ![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=Java&logoColor=white)&nbsp;
 ![html](https://img.shields.io/badge/html-0D1117?style=for-the-badge&logo=html&logoColor=white)&nbsp;
