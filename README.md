@@ -1,7 +1,7 @@
 <img src="https://user-images.githubusercontent.com/59892753/122819440-d97f2e80-d2b0-11eb-87dd-0d6737de5452.png" width="350px" align="right">
 
 <div align="center">  
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+Meu+Nome+é+SrRhyan;Eu+tenho+17+Anos;Seja+Bem-vindo(a)!+:%29" alt="Matheus Maia Alvarez github stats" /> 
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+Meu+Nome+é+SrRhyan;Eu+tenho+18+Anos;Seja+Bem-vindo(a)!+:%29" alt="Matheus Maia Alvarez github stats" /> 
 </div>
 <div align="center">  
   <img src="https://discord.c99.nl/widget/theme-4/318920669825859595.png" alt="Matheus Maia Alvarez github stats" /> 
