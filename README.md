@@ -1,41 +1,63 @@
 <img src="https://user-images.githubusercontent.com/59892753/122819440-d97f2e80-d2b0-11eb-87dd-0d6737de5452.png" width="350px" align="right">
 
 <div align="center">  
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+Meu+Nome+é+SrRhyan;Eu+tenho+18+Anos;Seja+Bem-vindo(a)!+:%29" alt="Matheus Maia Alvarez github stats" /> 
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Seja+Bem-vindo(a)!+:%29" alt="github stats" /> 
 </div>
 <div align="center">  
-  <img src="https://discord.c99.nl/widget/theme-4/318920669825859595.png" alt="Matheus Maia Alvarez github stats" /> 
+  <img src="https://discord.c99.nl/widget/theme-4/318920669825859595.png" alt="github stats" /> 
 </div>
 <h3> 😸 &nbsp;Sobre mim: </h3>
   
 - 🧑‍🎓 intermediário na área.
+- 🔥 Dev BackEnd.
 - 😼 Focado em aprender.
-- 👩🏻‍💻 Aprimorando minhas habilidades em **```Java,JavaScript,Nodejs,Blender,Zbrush,UE4/5```**.
+- 👩🏻‍💻 Aprimorando minhas habilidades em **```Java,Blender,Zbrush,UE4/5,IA```**.
 - 📍 Localização: <img width="2%" height="2%" src="https://images.emojiterra.com/twitter/v14.0/512px/1f1e7-1f1f7.png">
 
-<h3> 🌐 Languages </h3>
+<h3> 🌐 - Languages </h3>
 
 **|**
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;**|**
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117&textColor=0D1117)
+**|**
+
+&nbsp;
+<h3> 🛠️ Frameworks </h3>
+
+**|**
+[![Express.js](https://img.shields.io/badge/Express.js-0D1117?style=for-the-badge&logo=express&logoColor=)](https://expressjs.com/)
+[![Solid](https://img.shields.io/badge/-Solid-0D1117?style=for-the-badge&logo=solid&logoColor=41b883)](https://vuejs.org/)
+[![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
+**|**
 ![mongo](https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=)&nbsp;
-![SQLite](https://img.shields.io/badge/Sqlite-0D1117?style=for-the-badge&logo=Sqlite&logoColor=blue)&nbsp;
+![SQLite](https://img.shields.io/badge/Sqlite-0D1117?style=for-the-badge&logo=Sqlite&logoColor=blue)
 **|**
-<h3> 👨‍🏫 Aprendendo </h3>
+
+&nbsp;
+<h3> 👨‍🏫 - Aprendendo </h3>
 
 **|**
-![Py](https://img.shields.io/badge/python-0D1117?style=for-the-badge&logo=python&logoColor=)&nbsp;
+![Py](https://img.shields.io/badge/python-0D1117?style=for-the-badge&logo=python)&nbsp;
 ![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=Java&logoColor=white)&nbsp;
-![html](https://img.shields.io/badge/html-0D1117?style=for-the-badge&logo=html&logoColor=white)&nbsp;
-![css](https://img.shields.io/badge/Css-0D1117?style=for-the-badge&logo=css&logoColor=white)&nbsp;
-**|**
-![Blender](https://img.shields.io/badge/Blender-0D1117?style=for-the-badge&logo=Blender&logoColor=)&nbsp;
-![Unreal Engine](https://img.shields.io/badge/UE4/5-0D1117?style=for-the-badge&logo=unrealengine&logoColor=)&nbsp;
-![Zbrush](https://img.shields.io/badge/Zbrush-0D1117?style=for-the-badge&linklogo=zbrush&logoColor=white)&nbsp;
+![html](https://img.shields.io/badge/html-0D1117?style=for-the-badge&logo=html5)&nbsp;
+![css](https://img.shields.io/badge/Css-0D1117?style=for-the-badge&logo=css3)&nbsp;
+![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python)
 **|**
 
-<h3> 👩‍💻 IDE </h3>
+&nbsp;
+<h3> 😻 - Hobby </h3>
+
+**|**
+![IA](https://img.shields.io/badge/IA-0D1117?style=for-the-badge&logo=ai&logoColor=white)&nbsp;
+![Blender](https://img.shields.io/badge/Blender-0D1117?style=for-the-badge&logo=blender&logoColor=)&nbsp;
+![Unreal Engine](https://img.shields.io/badge/UE4/5-0D1117?style=for-the-badge&logo=unrealengine&logoColor=)&nbsp;
+![Zbrush](https://img.shields.io/badge/Zbrush-0D1117?style=for-the-badge&linklogo=zbrush&logoColor=white)
+**|**
+
+&nbsp;
+<h3> 👩‍💻 - IDE </h3>
 
 **|**
 ![eclipse](https://img.shields.io/badge/Eclipse-0D1117?style=for-the-badge&logo=eclipse&logoColor=34099e)
