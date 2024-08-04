@@ -43,7 +43,6 @@
 ![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=Java&logoColor=white)&nbsp;
 ![html](https://img.shields.io/badge/html-0D1117?style=for-the-badge&logo=html5)&nbsp;
 ![css](https://img.shields.io/badge/Css-0D1117?style=for-the-badge&logo=css3)&nbsp;
-![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python)
 **|**
 
 &nbsp;
@@ -61,7 +60,7 @@
 
 **|**
 ![eclipse](https://img.shields.io/badge/Eclipse-0D1117?style=for-the-badge&logo=eclipse&logoColor=34099e)
-![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-0D1117?style=for-the-badge&logo=visual-studio&logoColor=086ec2)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visualstudio&logoColor=086ec2)&nbsp;
 **|**
 
 <div align="center">  
