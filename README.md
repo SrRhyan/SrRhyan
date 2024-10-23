@@ -24,7 +24,7 @@
 **|**
 
 &nbsp;
-<h3> 🛠️ Frameworks </h3>
+<h3> 🛠️ - Frameworks </h3>
 
 **|**
 [![Express.js](https://img.shields.io/badge/Express.js-0D1117?style=for-the-badge&logo=express&logoColor=)](https://expressjs.com/)
@@ -71,7 +71,3 @@
 <!-- ![Contribution](https://activity-graph.herokuapp.com/graph?username=SrRhyan&theme=gotham&hide_border=true&area=true) -->
 
 ![Cobra](https://raw.githubusercontent.com/rafaballerini/rafaballerini/b3f0627a4d59986893b502f6dc9d13ae368bbac7/github-contribution-grid-snake.svg)
-
-[discord-invite]: https://discord.gg/hightland
-[discord-shield]: https://img.shields.io/discord/995364777876525066?label=Discord&logo=Discord&logoColor=white&style=for-the-badge
-[ ![discord-shield][] ][discord-invite]
